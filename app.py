@@ -6,7 +6,7 @@ app = FastAPI(title="ML Model API")
 
 
 # Load your trained model
-model = joblib.load("model.pkl")
+# model = joblib.load("model.pkl")
 
 
 # Define input data
